@@ -81,8 +81,8 @@ This assistive ATM prototype features:
 🗺️ Multilingual voice support
 
 ## 📝 Authors
-Neha. L
-Kavya. A. J
+Neha. L , 
+Kavya. A. J , 
 Priya. R
 
 Department of Electronics and Communication Engineering
